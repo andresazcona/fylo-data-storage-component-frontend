@@ -5,9 +5,7 @@
 
 <div align="center">
 
-[Live](https://catherineisonline.github.io/fylo-data-storage-component-frontendmentor/)
-| [Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-gpaJOs4EP)
-| [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 </div>
